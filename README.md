@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there 👋, I'm Bill Greco. Thanks for stopping by! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&multiline=true&lines=To+iterate+is+human;To+recurse+divine.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&multiline=true&lines=To+iterate+is+human,;To+recurse+divine.)](https://git.io/typing-svg)
 
 <h4 align="center">I am an experienced software engineer with a passion for working with new technologies and solving complex problems. I am also a core team member and co-creator of dangoDB, an open-source MongoDB Object Document Mapper (ODM) built for the Deno runtime environment.
 <br>
