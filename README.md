@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there 👋, I'm Bill Greco.</h1>
+<h1 align="center">Bill Greco</h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&multiline=true&center=true&lines=To+iterate+is+human,;To+recurse+divine.)](https://git.io/typing-svg)
